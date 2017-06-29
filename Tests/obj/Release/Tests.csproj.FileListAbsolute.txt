@@ -1,0 +1,10 @@
+C:\Projects\HomeWorkoutApp\Tests\bin\Release\Tests.dll
+C:\Projects\HomeWorkoutApp\Tests\bin\Release\Tests.pdb
+C:\Projects\HomeWorkoutApp\Tests\bin\Release\HomeWorkoutApp.dll
+C:\Projects\HomeWorkoutApp\Tests\bin\Release\nunit.framework.dll
+C:\Projects\HomeWorkoutApp\Tests\bin\Release\Mono.Android.dll
+C:\Projects\HomeWorkoutApp\Tests\bin\Release\HomeWorkoutApp.pdb
+C:\Projects\HomeWorkoutApp\Tests\bin\Release\nunit.framework.xml
+C:\Projects\HomeWorkoutApp\Tests\obj\Release\Tests.csprojResolveAssemblyReference.cache
+C:\Projects\HomeWorkoutApp\Tests\obj\Release\Tests.dll
+C:\Projects\HomeWorkoutApp\Tests\obj\Release\Tests.pdb

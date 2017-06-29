@@ -1,0 +1,14 @@
+C:\Projects\HomeWorkoutApp\Tests\bin\Debug\Tests.dll
+C:\Projects\HomeWorkoutApp\Tests\bin\Debug\Tests.pdb
+C:\Projects\HomeWorkoutApp\Tests\bin\Debug\HomeWorkoutApp.dll
+C:\Projects\HomeWorkoutApp\Tests\bin\Debug\nunit.framework.dll
+C:\Projects\HomeWorkoutApp\Tests\bin\Debug\Mono.Android.dll
+C:\Projects\HomeWorkoutApp\Tests\bin\Debug\HomeWorkoutApp.pdb
+C:\Projects\HomeWorkoutApp\Tests\bin\Debug\nunit.framework.xml
+C:\Projects\HomeWorkoutApp\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Projects\HomeWorkoutApp\Tests\obj\Debug\Tests.dll
+C:\Projects\HomeWorkoutApp\Tests\obj\Debug\Tests.pdb
+C:\Projects\HomeWorkoutApp\Tests\bin\Debug\Castle.Core.dll
+C:\Projects\HomeWorkoutApp\Tests\bin\Debug\Moq.dll
+C:\Projects\HomeWorkoutApp\Tests\bin\Debug\Castle.Core.xml
+C:\Projects\HomeWorkoutApp\Tests\bin\Debug\Moq.xml
